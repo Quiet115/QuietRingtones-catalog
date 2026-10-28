@@ -1,0 +1,240 @@
+{
+    "version":  1,
+    "sounds":  [
+                   {
+                       "id":  "bach-air",
+                       "title":  "Air on the G String",
+                       "artist":  "Johann Sebastian Bach",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/bach-air.ogg",
+                       "seconds":  30,
+                       "bytes":  389190,
+                       "sha256":  "cb2d79026cc16e288f24a8d9bc286094287b76bb3dd1af6dc4ca8a5e7fe4767f",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Air_(Bach).ogg"
+                   },
+                   {
+                       "id":  "bach-toccata-d-minor",
+                       "title":  "Toccata and Fugue in D minor",
+                       "artist":  "Johann Sebastian Bach",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/bach-toccata-d-minor.ogg",
+                       "seconds":  30,
+                       "bytes":  488542,
+                       "sha256":  "46103495a8e6f96eea6397375193909c084d92506a589bdc47775cde3e151626",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Toccata_et_Fugue_BWV565.ogg"
+                   },
+                   {
+                       "id":  "beethoven-symphony-5",
+                       "title":  "Symphony No. 5, I. Allegro con brio",
+                       "artist":  "Ludwig van Beethoven",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/beethoven-symphony-5.ogg",
+                       "seconds":  30,
+                       "bytes":  398488,
+                       "sha256":  "ef7af205ff9515c12a1c243a884fd55b60fd80774e5afd576b9e9ca0b0826d7b",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor%2C_op._67_-_i._allegro_con_brio.ogg"
+                   },
+                   {
+                       "id":  "beethoven-symphony-5-short",
+                       "title":  "Symphony No. 5, I. Allegro con brio (short)",
+                       "artist":  "Ludwig van Beethoven",
+                       "kinds":  [
+                                     "notification"
+                                 ],
+                       "file":  "clips/beethoven-symphony-5-short.ogg",
+                       "seconds":  6,
+                       "bytes":  81160,
+                       "sha256":  "137388caf06c5737e5c848804c57e2d2c7e4157e21bf9f4b2389ec9c308d8bb4",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor%2C_op._67_-_i._allegro_con_brio.ogg"
+                   },
+                   {
+                       "id":  "wagner-ride-of-the-valkyries",
+                       "title":  "Ride of the Valkyries",
+                       "artist":  "Richard Wagner",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/wagner-ride-of-the-valkyries.ogg",
+                       "seconds":  30,
+                       "bytes":  262687,
+                       "sha256":  "d2e8ce22f8c6c2c2f0f85f4418c2a73169c0fc3f1b6aa3f0d3b3c22b614786d8",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Richard_Wagner_-_Ride_of_the_Valkyries.ogg"
+                   },
+                   {
+                       "id":  "satie-gymnopedie-1",
+                       "title":  "Gymnopédie No. 1",
+                       "artist":  "Erik Satie",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/satie-gymnopedie-1.ogg",
+                       "seconds":  30,
+                       "bytes":  351790,
+                       "sha256":  "7b15b45a913d745529b90f10928b3055d311e1cf514b7c9fe5aa6c2f415fb675",
+                       "license":  "CC0",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Gymnopedie_No._1..ogg"
+                   },
+                   {
+                       "id":  "satie-gymnopedie-1-short",
+                       "title":  "Gymnopédie No. 1 (short)",
+                       "artist":  "Erik Satie",
+                       "kinds":  [
+                                     "notification"
+                                 ],
+                       "file":  "clips/satie-gymnopedie-1-short.ogg",
+                       "seconds":  6,
+                       "bytes":  70905,
+                       "sha256":  "134de53d6ef7a8a8f9e9b44f57aee7d00ba2fe3760f3c0724d07496713c63753",
+                       "license":  "CC0",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Gymnopedie_No._1..ogg"
+                   },
+                   {
+                       "id":  "strauss-blue-danube",
+                       "title":  "The Blue Danube",
+                       "artist":  "Johann Strauss II",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/strauss-blue-danube.ogg",
+                       "seconds":  30,
+                       "bytes":  269762,
+                       "sha256":  "65919abb642333c707df11fbddd99b34ea796bb7e9dbf9565af88e40beded0bb",
+                       "license":  "CC0",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Strauss%2C_An_der_sch%C3%B6nen_blauen_Donau.ogg"
+                   },
+                   {
+                       "id":  "bizet-carmen-prelude",
+                       "title":  "Carmen, Prelude to Act 1",
+                       "artist":  "Georges Bizet",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/bizet-carmen-prelude.ogg",
+                       "seconds":  30,
+                       "bytes":  300214,
+                       "sha256":  "618daef396262f29a76b061fc6776265d30ed2abf1361719497ac2ac59b1270b",
+                       "license":  "CC0",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Carmen_-_Prelude_to_Act_1.ogg"
+                   },
+                   {
+                       "id":  "bizet-carmen-prelude-short",
+                       "title":  "Carmen, Prelude to Act 1 (short)",
+                       "artist":  "Georges Bizet",
+                       "kinds":  [
+                                     "notification"
+                                 ],
+                       "file":  "clips/bizet-carmen-prelude-short.ogg",
+                       "seconds":  6,
+                       "bytes":  62980,
+                       "sha256":  "dc0c377a4db9136fd23252cc545672a68d2c4ee250b7a0ca49e6e47bae11e96d",
+                       "license":  "CC0",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Carmen_-_Prelude_to_Act_1.ogg"
+                   },
+                   {
+                       "id":  "chopin-nocturne-op9-2",
+                       "title":  "Nocturne in E-flat major, Op. 9 No. 2",
+                       "artist":  "Frédéric Chopin",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/chopin-nocturne-op9-2.ogg",
+                       "seconds":  30,
+                       "bytes":  208101,
+                       "sha256":  "5133a8bc6953a617387501513fda57ab92d8cad3908d3c5ab62a23d8ac63fe76",
+                       "license":  "CC0",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Chopin_Nocturne_No._2_in_E_Flat_Major%2C_Op._9.ogg"
+                   },
+                   {
+                       "id":  "chopin-nocturne-op9-2-short",
+                       "title":  "Nocturne in E-flat major, Op. 9 No. 2 (short)",
+                       "artist":  "Frédéric Chopin",
+                       "kinds":  [
+                                     "notification"
+                                 ],
+                       "file":  "clips/chopin-nocturne-op9-2-short.ogg",
+                       "seconds":  6,
+                       "bytes":  42537,
+                       "sha256":  "01c7588bdc576c43ff420f451ccbd8cc7e98bce84a2daa190d0b237278dcbdf4",
+                       "license":  "CC0",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Chopin_Nocturne_No._2_in_E_Flat_Major%2C_Op._9.ogg"
+                   },
+                   {
+                       "id":  "debussy-clair-de-lune",
+                       "title":  "Clair de lune",
+                       "artist":  "Claude Debussy",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/debussy-clair-de-lune.ogg",
+                       "seconds":  30,
+                       "bytes":  449699,
+                       "sha256":  "f85264e1fa45fb9ab029bdce2ca31914ba37ce5f503a4d4f4f519604323879f2",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg"
+                   },
+                   {
+                       "id":  "tchaikovsky-swan-lake-waltz",
+                       "title":  "Swan Lake, Waltz",
+                       "artist":  "Pyotr Ilyich Tchaikovsky",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/tchaikovsky-swan-lake-waltz.ogg",
+                       "seconds":  30,
+                       "bytes":  264064,
+                       "sha256":  "ee271278451ace4b8ea3d675759bb4bce9a2e3475ebff74dc42090ac0edb835a",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Tchaikovsky_Swan_Lake_Op.20_No.2.Waltz.ogg"
+                   },
+                   {
+                       "id":  "mozart-eine-kleine-nachtmusik",
+                       "title":  "Eine kleine Nachtmusik, I. Allegro",
+                       "artist":  "Wolfgang Amadeus Mozart",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/mozart-eine-kleine-nachtmusik.ogg",
+                       "seconds":  30,
+                       "bytes":  277321,
+                       "sha256":  "6d7a228f03c84639f6dcff9d6787ef4ade6cc5331f9f8d410d543522e6c87989",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Mozart_K525_Serenade_in_G_Major_1_-_Allegro.ogg"
+                   },
+                   {
+                       "id":  "mozart-eine-kleine-nachtmusik-short",
+                       "title":  "Eine kleine Nachtmusik, I. Allegro (short)",
+                       "artist":  "Wolfgang Amadeus Mozart",
+                       "kinds":  [
+                                     "notification"
+                                 ],
+                       "file":  "clips/mozart-eine-kleine-nachtmusik-short.ogg",
+                       "seconds":  6,
+                       "bytes":  58450,
+                       "sha256":  "38f8be190afa54f019910891af778322566948bb9d39ad676d13bedf24bd676b",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Mozart_K525_Serenade_in_G_Major_1_-_Allegro.ogg"
+                   }
+               ]
+}
