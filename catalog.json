@@ -235,6 +235,50 @@
                        "sha256":  "38f8be190afa54f019910891af778322566948bb9d39ad676d13bedf24bd676b",
                        "license":  "Public domain",
                        "source":  "https://commons.wikimedia.org/wiki/File:Mozart_K525_Serenade_in_G_Major_1_-_Allegro.ogg"
+                   },
+                   {
+                       "id":  "grieg-morning-mood",
+                       "title":  "Peer Gynt, Morning Mood",
+                       "artist":  "Edvard Grieg",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/grieg-morning-mood.ogg",
+                       "seconds":  30,
+                       "bytes":  442550,
+                       "sha256":  "11c6b8ae1f00962aae3854259be1132cb388fd96fcada587680227afa27377e0",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_I._Morning_Mood_(Musopen_Symphony).flac"
+                   },
+                   {
+                       "id":  "grieg-morning-mood-short",
+                       "title":  "Peer Gynt, Morning Mood (short)",
+                       "artist":  "Edvard Grieg",
+                       "kinds":  [
+                                     "notification"
+                                 ],
+                       "file":  "clips/grieg-morning-mood-short.ogg",
+                       "seconds":  6,
+                       "bytes":  91639,
+                       "sha256":  "e86d760fb9d15d21ea2537aaa0868c405fb9134935a7a904d4d53f75f6311676",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_I._Morning_Mood_(Musopen_Symphony).flac"
+                   },
+                   {
+                       "id":  "grieg-hall-of-the-mountain-king",
+                       "title":  "Peer Gynt, In the Hall of the Mountain King",
+                       "artist":  "Edvard Grieg",
+                       "kinds":  [
+                                     "ringtone",
+                                     "alarm"
+                                 ],
+                       "file":  "clips/grieg-hall-of-the-mountain-king.ogg",
+                       "seconds":  30,
+                       "bytes":  400962,
+                       "sha256":  "75829d8b2cf6d024bfecabde38ce49e1bf726c2935611f87807143fc732bb679",
+                       "license":  "Public domain",
+                       "source":  "https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_IV._In_the_Hall_of_the_Mountain_King_(Musopen_Symphony).flac"
                    }
                ]
 }

@@ -5,7 +5,7 @@ Short classical clips for the [QuietRingtones](https://github.com/Quiet115/Quiet
 ## What is here
 
 - `catalog.json`: the index the app reads.
-- `clips/`: the audio, Ogg Vorbis, 30 seconds for ringtones and alarms and 6 seconds for notifications. About 4 MB in total.
+- `clips/`: the audio, Ogg Vorbis, 30 seconds for ringtones and alarms and 6 seconds for notifications. About 4.7 MB in total.
 
 ## How the clips are made
 
@@ -35,6 +35,9 @@ ffmpeg -i source.ogg -af "silenceremove=start_periods=1:start_threshold=-50dB:st
 | Swan Lake, Waltz | Pyotr Ilyich Tchaikovsky | ringtone, alarm | 30 s | Public domain | [source](https://commons.wikimedia.org/wiki/File:Tchaikovsky_Swan_Lake_Op.20_No.2.Waltz.ogg) |
 | Eine kleine Nachtmusik, I. Allegro | Wolfgang Amadeus Mozart | ringtone, alarm | 30 s | Public domain | [source](https://commons.wikimedia.org/wiki/File:Mozart_K525_Serenade_in_G_Major_1_-_Allegro.ogg) |
 | Eine kleine Nachtmusik, I. Allegro (short) | Wolfgang Amadeus Mozart | notification | 6 s | Public domain | [source](https://commons.wikimedia.org/wiki/File:Mozart_K525_Serenade_in_G_Major_1_-_Allegro.ogg) |
+| Peer Gynt, Morning Mood | Edvard Grieg | ringtone, alarm | 30 s | Public domain | [source](https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_I._Morning_Mood_(Musopen_Symphony).flac) |
+| Peer Gynt, Morning Mood (short) | Edvard Grieg | notification | 6 s | Public domain | [source](https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_I._Morning_Mood_(Musopen_Symphony).flac) |
+| Peer Gynt, In the Hall of the Mountain King | Edvard Grieg | ringtone, alarm | 30 s | Public domain | [source](https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_IV._In_the_Hall_of_the_Mountain_King_(Musopen_Symphony).flac) |
 
 No attribution is required for public-domain or CC0 recordings; the sources are listed anyway.
 
